@@ -1,0 +1,2 @@
+include dash_mention_textarea/package-info.json
+include dash_mention_textarea/react-component/*.js

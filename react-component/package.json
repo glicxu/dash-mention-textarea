@@ -1,0 +1,10 @@
+{
+  "name": "dash-mention-textarea",
+  "version": "0.0.1",
+  "description": "A Dash component for textarea with @mention support",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
